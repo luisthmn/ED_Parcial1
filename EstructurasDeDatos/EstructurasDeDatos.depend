@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1551484404 source:c:\users\luis\desktop\tarea_examen2_luisthomson\estructurasdedatos\estructuras.cpp
+	<iostream>
+	<cstdlib>
+
+1551503788 source:c:\users\luis\desktop\tarea_examen2_luisthomson\estructurasdedatos\clases.cpp
+	<iostream>
+	<cstdlib>
+	"Estructuras.cpp"
+
+1551484404 c:\users\luis\desktop\tarea_examen2_luisthomson\estructurasdedatos\estructuras.cpp
+	<iostream>
+	<cstdlib>
+
+1551504647 source:c:\users\luis\desktop\tarea_examen2_luisthomson\estructurasdedatos\main.cpp
+	<iostream>
+	<cstdlib>
+	"Clases.cpp"
+
+1551504613 source:c:\users\luis\desktop\tarea_examen2_luisthomson\estructurasdedatos\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"Clases.cpp"
+
+1551503788 c:\users\luis\desktop\tarea_examen2_luisthomson\estructurasdedatos\clases.cpp
+	<iostream>
+	<cstdlib>
+	"Estructuras.cpp"
+
+1551209941 c:\users\luis\desktop\tarea_examen2_luisthomson\estructurasdedatos\funciones.cpp
+	<iostream>
+	<cstdlib>
+
